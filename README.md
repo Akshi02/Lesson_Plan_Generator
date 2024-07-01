@@ -10,12 +10,13 @@ Check out the live demo [here](https://akshi02.github.io/Lesson_Plan_Generator/)
 ## Installation
 
 Follow these steps to set up the project locally.
+Kindly ignore the `Fronted/src` directory as it will be redacted.
 
 ### Backend
 1. Navigate to the `Backend` directory.
 2. Install dependencies: `npm install`.
 3. Start the server: `node server.js`.
-4. If you have an OPENAI API Key, please add it in: 'Authorization': `Bearer YOUR_OPENAI_API_KEY`
+4. If you have an OPENAI API Key, please add it in: 'Authorization': `Bearer YOUR_OPENAI_API_KEY` in server.js
 
 ### Frontend
 1. Navigate to the `design` directory.
