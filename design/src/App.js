@@ -1,3 +1,5 @@
+import logo from './logo.svg';
+import './App.css';
 import React from 'react';
 import LessonPlanForm from './LessonPlanForm';
 import LessonPlanResult from './LessonPlanResult';
