@@ -13,7 +13,7 @@ app.post('/api/generate-lesson-plan', async (req, res) => {
   const { topic } = req.body;
   
   try {
-    const response = await axios.post('https://api.openai.com/v1/engines/davinci/completions', {
+    const response = await axios.post('https://api.openai.com/v1/completions', {
       prompt: `Create a detailed lesson plan for the topic "${topic}" with the following subheadings:\n\nLearning Objectives\nMaterials Needed\nLesson Procedure\nAssessment\nDifferentiation`,
       max_tokens: 500,
       temperature: 0.7
