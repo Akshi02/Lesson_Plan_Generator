@@ -23,6 +23,12 @@ Kindly ignore the `Fronted/src` directory as it will be redacted.
 2. Install dependencies: `npm install`.
 3. Start the development server: `npm start`.
 
+### Frontend Design
+Please check the design idea in `design` the directory
+1. TeachGPT Main Page
+2. TeachGPT Generate Page
+3. TeachGPT Lesson Plan Page
+
 ## License
 
 This project is licensed under the MIT License.
