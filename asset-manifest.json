@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Akshi02/Lesson_Plan_Generator.git/static/css/main.f855e6bc.css",
-    "main.js": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.8a220849.js",
+    "main.js": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.ea9780ce.js",
     "static/js/453.5d83c70d.chunk.js": "/Akshi02/Lesson_Plan_Generator.git/static/js/453.5d83c70d.chunk.js",
-    "static/media/logo.svg": "/Akshi02/Lesson_Plan_Generator.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Akshi02/Lesson_Plan_Generator.git/index.html",
     "main.f855e6bc.css.map": "/Akshi02/Lesson_Plan_Generator.git/static/css/main.f855e6bc.css.map",
-    "main.8a220849.js.map": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.8a220849.js.map",
+    "main.ea9780ce.js.map": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.ea9780ce.js.map",
     "453.5d83c70d.chunk.js.map": "/Akshi02/Lesson_Plan_Generator.git/static/js/453.5d83c70d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8a220849.js"
+    "static/js/main.ea9780ce.js"
   ]
 }
