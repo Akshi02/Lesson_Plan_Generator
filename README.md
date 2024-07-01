@@ -25,7 +25,7 @@ Kindly ignore the `Frontend/src` directory as it will be redacted.
 3. Start the development server: `npm start`.
 
 ### Frontend Design
-Please check the design idea in `design` the directory
+Please check the design idea in `design` the directory under `images`
 1. TeachGPT Main Page
 2. TeachGPT Generate Page
 3. TeachGPT Lesson Plan Page
