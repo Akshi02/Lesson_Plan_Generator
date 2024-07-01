@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akshi02/Lesson_Plan_Generator.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.ea9780ce.js",
+    "static/js/453.5d83c70d.chunk.js": "/Akshi02/Lesson_Plan_Generator.git/static/js/453.5d83c70d.chunk.js",
+    "index.html": "/Akshi02/Lesson_Plan_Generator.git/index.html",
+    "main.e6c13ad2.css.map": "/Akshi02/Lesson_Plan_Generator.git/static/css/main.e6c13ad2.css.map",
+    "main.ea9780ce.js.map": "/Akshi02/Lesson_Plan_Generator.git/static/js/main.ea9780ce.js.map",
+    "453.5d83c70d.chunk.js.map": "/Akshi02/Lesson_Plan_Generator.git/static/js/453.5d83c70d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea9780ce.js"
+  ]
+}
