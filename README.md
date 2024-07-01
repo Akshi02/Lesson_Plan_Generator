@@ -10,7 +10,8 @@ Check out the live demo [here](https://akshi02.github.io/Lesson_Plan_Generator/)
 ## Installation
 
 Follow these steps to set up the project locally.
-Kindly ignore the `Fronted/src` directory as it will be redacted.
+
+Kindly ignore the `Frontend/src` directory as it will be redacted.
 
 ### Backend
 1. Navigate to the `Backend` directory.
