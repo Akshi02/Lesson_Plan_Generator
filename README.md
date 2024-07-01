@@ -5,7 +5,7 @@ This project uses the ChatGPT API to generate detailed lesson plans based on a g
 
 ## Live Demo
 
-Check out the live demo [here](http://Akshi02.github.io/Lesson_Plan_Generator-repo).
+Check out the live demo [here](https://akshi02.github.io/Lesson_Plan_Generator/).
 
 ## Installation
 
